@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+Intermediate/*
+.vscode/*
+Binaries/*
+Platforms/*
+Saved/*
+CryptRaider.code-workspace
+
